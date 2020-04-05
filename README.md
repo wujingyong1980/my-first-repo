@@ -1,26 +1,17 @@
-# This is a large heading
-## This is a smaller heading
+# WUJINGYONG
 
-And as **imagination** bodies forth,
-The forms of thing *unknown*, the poet's pen
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## SKILLS
 
-- This is
-- an unordered
-- List
+- C
+- PYTHON
+- JAVA
 
-1. This is
-2. an ordered
-3. list
+## EDUCATION
+1. XXXXX
+2. XXXX
 
-Here is `some code` in the middle of a sentence.
-```
-This is
-a block
-of code
-```
+## CAREER
 
-Here is how you make [a link](https://www.wikipedia.org)
+Just for *test*. [check this][http://www.google.com]
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-mousetache.jpg)
+

@@ -1,4 +1,0 @@
-line1
-I Add a line here.
-here is a created in test branch , to be merged to master branch.
-It's cloudy day.
